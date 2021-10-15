@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/technotj",
+    "prod_uri": "mysql://root:@localhost/technotj",
+    "fb_uri": "https://facebook.com/",
+    "insta_uri": "https://instagram.com",
+    "about_text": "Hi This is the blog website. This website specially contain Technical Blogs. My name is Techno Tj and you are visiting Techno Website. Thanks...",
+    "no_of_posts": 5,
+    "admin_user": "tej@5",
+    "admin_pass": "tej@50910"
+
+
+
+  }
+}
